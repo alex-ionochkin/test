@@ -1,6 +1,4 @@
-# Here is your stack preview
-# You can make advanced changes like modifying your VM,
-# installing packages, and running shell commands.
+# Here is your GitHub stack template
 
 provider:
   aws:
